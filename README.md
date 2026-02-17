@@ -16,5 +16,10 @@ Numericos, textuales
 ## Usuarios y roles
 * **Administrador:**
 * **Usuario:**
+## Informacion manejada 
+*Ingreso de cada venta
+*facturas de compra del inventario 
+*facturas de los clientes para alguna garantía
+
 
 
