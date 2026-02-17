@@ -17,6 +17,13 @@ Mejorar ingreso y salida de productos. Costos fijos (arriendo, recibos servicios
 * Genera el nombre del negocio por encima del producto, su precio, la fecha y hora en el que se vendió el producto.
 * No permite permisos ya que viene una configuración predeterminada.
 
+## Usuarios y Roles
+* **Administrador:**
+* **Usuarios:**
 
+## Infomacion Manejada
+* Ingreso de cada venta
+* facturas de compra del inventario 
+* facturas de los clientes para alguna garantía
 
 
