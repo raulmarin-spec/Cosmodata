@@ -15,3 +15,8 @@ Numericos, textuales
 * El usuario obtiene un recibo de su compra.
 * Genera el nombre del negocio por encima del producto, su precio, la fecha y hora en el que se vendió el producto.
 * No permite permisos ya que viene una configuración predeterminada.
+
+## Informacion manejada 
+*Ingreso de cada venta
+*facturas de compra del inventario 
+*facturas de los clientes para alguna garantía
