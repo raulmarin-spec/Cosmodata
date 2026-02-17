@@ -15,3 +15,14 @@
 * El usuario obtiene un recibo de su compra
 * Genera el nombre del negocio por encima del producto, su precio, la fecha y hora en el que se vendio el producto
 * no permite permisos ya que viene una configuracion predeterminda
+
+
+## Usuarios y Roles 
+* **Administrador:**
+* **Usuario:**
+
+## Informacion Manejada
+* Facturas de compra de inventario
+* Facturas de los clientes para alguna garantia
+* Ingreso de cada venta
+   
