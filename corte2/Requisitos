@@ -15,4 +15,5 @@
 - El sistema debe tener alta disponibilidad y estabilidad
 - El sistema debe ser compatible con dispositivos móviles y computadores
 - El sistema debe permitir una escalabilidad horizontal, facilitando su crecimiento en número de usuarios y datos
-- El sistema debe garantizar un tiempo de respuesta menor a 2 segundos en operaciones críticas como inicio de sesión, agregar al carrito, compra
+- El sistema debe garantizar un tiempo de respuesta menor a 2 segundos en operaciones críticas como inicio de sesión, agregar al carrito, compra, teniendo
+la capacidad de uncionar 24/7 sin ninguna inconveniente.
