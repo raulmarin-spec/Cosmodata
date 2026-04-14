@@ -1,0 +1,18 @@
+ requerimientos funcionales de su proyecto:
+
+- El sistema debe permitir el registro de usuarios
+- El sistema debe permitir la gestión de inventario
+- El usuario podrá ver el catálogo de productos
+- El usuario podrá agregar productos al carrito de compras
+- El sistema debe permitir realizar compras
+- El administrador podrá agregar nuevos productos
+- El sistema debe permitir mostrar detalles de cada producto (precio, talla, descripción, etc.)
+
+2) Requisitos no funcionales
+
+- El sistema debe implementar autenticación segura de usuarios mediante el uso de contraseñas cifradas
+- La interfaz del sistema debe ser intuitiva, permitiendo que un usuario nuevo pueda realizar una compra sin capacitación previa
+- El sistema debe tener alta disponibilidad y estabilidad
+- El sistema debe ser compatible con dispositivos móviles y computadores
+- El sistema debe permitir una escalabilidad horizontal, facilitando su crecimiento en número de usuarios y datos
+- El sistema debe garantizar un tiempo de respuesta menor a 2 segundos en operaciones críticas como inicio de sesión, agregar al carrito, compra
