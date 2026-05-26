@@ -5,6 +5,10 @@ i : Informado
 C: Consultado
 R: Responsables
 A: Aprobadores
-
 <img width="1600" height="900" alt="raci" src="https://github.com/user-attachments/assets/3b3e739d-cc4b-402f-9c7b-55ff5e5909ae" />
+el modelado de roles esta incom,eto toca completarlo ¿con los que estan en la matriz raci 
 
+
+Validación de Entrada: Demostrar que el sistema rechaza "basura" (datos incoherentes, campos vacíos obligatorios)
+Arquitectura: El sistema debe mostrar una jerarquía clara de datos (desde la captura del dato simple hasta la generación de un reporte de información). ya esta 
+el mapa de poder esta ya esto fue el que se selccionaban los actiuvos
