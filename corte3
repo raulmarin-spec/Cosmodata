@@ -1,0 +1,15 @@
+Actividad 2: Compromiso para el proyecto
+Fase 3: El "Stress Test" Administrativo
+En base a lo que hemos planeado para Cosmodata decidimos usar una Estructura Centralisada, esto lo puse en el README porque queremos que todo el control de los inventarios y las ventas este en un solo lugar y que nadie mueva nada sin permiso para no regarla con los costos o el stock.
+
+Escenario A (Falla de Seguridad)
+Quien apaga el servidor?
+El Administrador General
+¿Porque?
+Como nuestro modelo es centralizado solo una persona tiene las llaves maestras de todo, si se estan robando los datos un domingo a las 2 am el administrador no tiene que llamar a nadie ni esperar a una reunion de zoom, el tiene el permiso legal y las contraseñas para desconectar todo de una vez. Es mejor que el jefe mande a que todos esten opinando mientras nos hackean.
+
+Escenario B (Conflicto de Requerimientos)
+¿Quien tiene la ultima palabra?
+El Gerente de Proyecto (la Direccion Estrategica).
+Por que?
+Aunqe el lider tecnico diga que la calidad va a valer por meter esa funcion nueva, en Cosmodata mandan los objetivos del negocio..El Gerente es el que decide porque el sabe los plazos que tenemos con el cliente, si el gerente dice que se hace, se hace así el codigo quede feo por que lo que importa es que el emprendimiento funcione y entreguemos a tiempo como dice el plan de produccion.
