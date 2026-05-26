@@ -1,2 +1,2 @@
 - CONTEXTO ADMINISTRATIVO: Nuestro sistema apoya una estructura centralizada esto debido a que la informacion principal de los negocios se controla desde un unico sistema que centraliza el inventario, las ventas, las fechas de vencimiento y los reportrs adminsitrativos, esto debido a que es enfocado a tener el control y el mejor orden para los emprendimientos y minimizar la informacion que ellos puedan modificar sin nuestra autorizacion para disminuir los riesgos de falta de stock o falencias en costos y demas.
-- MODELADO DE ROLES: 
+- MODELADO DE ROLES: [ADMINISTRADOR.pdf](https://github.com/user-attachments/files/28278753/ADMINISTRADOR.pdf)
