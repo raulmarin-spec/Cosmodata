@@ -2,9 +2,5 @@
 - MODELADO DE ROLES: 
 <img width="570" height="717" alt="mdr" src="https://github.com/user-attachments/assets/b4130ce5-6ebd-4153-befc-d5ce0b276d52" />
 <img width="585" height="511" alt="mdrl" src="https://github.com/user-attachments/assets/12be0ef2-a1f1-4c1c-9e24-e5e49dd42a1f" />
-- MATRIZ RACI:
-i : Informado
-C: Consultado
-R: Responsables
-A: Aprobadores
+- MATRIZ RACI: i : Informado C: Consultado R: Responsables A: Aprobadores
 <img width="1600" height="900" alt="raci" src="https://github.com/user-attachments/assets/3b3e739d-cc4b-402f-9c7b-55ff5e5909ae" />
