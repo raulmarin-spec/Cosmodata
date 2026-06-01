@@ -1,5 +1,6 @@
 - CONTEXTO ADMINISTRATIVO: Nuestro sistema apoya una estructura centralizada esto debido a que la informacion principal de los negocios se controla desde un unico sistema que centraliza el inventario, las ventas, las fechas de vencimiento y los reportrs adminsitrativos, esto debido a que es enfocado a tener el control y el mejor orden para los emprendimientos y minimizar la informacion que ellos puedan modificar sin nuestra autorizacion para disminuir los riesgos de falta de stock o falencias en costos y demas.
-- MODELADO DE ROLES:  https://github.com/raulmarin-spec/Cosmodata/blob/main/modelado%20roles.pdf
+- MODELADO DE ROLES: https://github.com/user-attachments/files/28478116/modelado.roles.pdf
+
 
 - MATRIZ RACI:
 i : Informado
