@@ -5,6 +5,7 @@
 - MATRIZ RACI: i : Informado C: Consultado R: Responsables A: Aprobadores
 <img width="1600" height="900" alt="raci" src="https://github.com/user-attachments/assets/3b3e739d-cc4b-402f-9c7b-55ff5e5909ae" />
 - DICCIONARIO DE DATOS:
+[Diccionario_Datos_Completo.docx](https://github.com/user-attachments/files/28489395/Diccionario_Datos_Completo.docx)
 
 - PROTOTIPO FUNCIONAL:
    - VALIDACION DE ENTRADA
