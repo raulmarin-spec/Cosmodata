@@ -20,6 +20,8 @@ REGISTRO DE USUARIO
 <img width="481" height="581" alt="Registro de usuario" src="https://github.com/user-attachments/assets/cb491d3b-f516-4a55-9adc-894d817f65cd" />
  INICIO  DE SESION 
 <img width="438" height="546" alt="INISIO DE SESION png" src="https://github.com/user-attachments/assets/432544d1-4c64-4561-b1de-e8ced0113c3b" />
+
+
 REGISTRO DE VENTA
 <img width="396" height="821" alt="Registrodeventa drawio" src="https://github.com/user-attachments/assets/af476e37-f284-4534-999f-1e21925c0eba" />
 ACTUALIZACION DE INVENTARIO
