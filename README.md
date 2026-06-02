@@ -47,7 +47,8 @@ GENERAR SOLICITUD DE REPORTES
 
 
 - TIPO SI
-  MIS
+  MIS 
+  Management Information Systems:
 
 
 
