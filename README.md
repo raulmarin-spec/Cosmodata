@@ -8,7 +8,8 @@
 
 - PROTOTIPO FUNCIONAL:
    - VALIDACION DE ENTRADA
-<img width="1080" height="720" alt="4" src="https://github.com/user-attachments/assets/b60d197b-8836-45fa-a1ca-c081c1d13ba3" />
-<img width="1080" height="720" alt="3" src="https://github.com/user-attachments/assets/7ca1328e-58d0-411f-ba1a-2eebac0f3877" />
 <img width="1080" height="720" alt="2" src="https://github.com/user-attachments/assets/46d2fb9b-95fe-482a-961c-fd35f969b7f3" />
 <img width="1080" height="720" alt="1" src="https://github.com/user-attachments/assets/ed23ab3b-8f60-4571-9119-070328188063" />
+<img width="1080" height="720" alt="4" src="https://github.com/user-attachments/assets/b60d197b-8836-45fa-a1ca-c081c1d13ba3" />
+<img width="1080" height="720" alt="3" src="https://github.com/user-attachments/assets/7ca1328e-58d0-411f-ba1a-2eebac0f3877" />
+
