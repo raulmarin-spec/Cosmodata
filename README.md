@@ -49,11 +49,9 @@ GENERAR SOLICITUD DE REPORTES
 - TIPO SI
   MIS 
   Management Information Systems:
-
-
-
-
-
+  - monitorear operaciones
+  - revisar desempeño
+  - generar informes
 
   Examen saber pro  Kevin Garzon
   <img width="1893" height="810" alt="image" src="https://github.com/user-attachments/assets/92780626-9dec-4937-91b5-e1874bef4a37" />
