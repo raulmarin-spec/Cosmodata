@@ -16,18 +16,28 @@
 - ARQUITECTURA DEL SISTEMA:
   FLUJO SISTEMA
 <img width="371" height="681" alt="Validación de Datos" src="https://github.com/user-attachments/assets/c6a9c19d-bb1d-48d7-8587-8ada02e8c48a" />
+
+
 REGISTRO DE USUARIO
 <img width="481" height="581" alt="Registro de usuario" src="https://github.com/user-attachments/assets/cb491d3b-f516-4a55-9adc-894d817f65cd" />
+
+
  INICIO  DE SESION 
 <img width="438" height="546" alt="INISIO DE SESION png" src="https://github.com/user-attachments/assets/432544d1-4c64-4561-b1de-e8ced0113c3b" />
 
 
 REGISTRO DE VENTA
 <img width="396" height="821" alt="Registrodeventa drawio" src="https://github.com/user-attachments/assets/af476e37-f284-4534-999f-1e21925c0eba" />
+
+
 ACTUALIZACION DE INVENTARIO
 <img width="121" height="641" alt="acyualizar inventasrio  drawio" src="https://github.com/user-attachments/assets/7fc942c8-1a1f-48af-95f3-bb4733563f8c" />
+
+
 CONTROL DE COSTOS
 <img width="478" height="801" alt="Control de Costos" src="https://github.com/user-attachments/assets/7cb74f1d-d835-4245-8a27-ee74a2787c3b" />
+
+
 GENERAR SOLICITUD DE REPORTES 
 <img width="874" height="1081" alt="Reportes" src="https://github.com/user-attachments/assets/94aa6378-0fac-433a-9305-e0afb47e53ff" />
 
