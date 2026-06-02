@@ -4,3 +4,11 @@
 <img width="585" height="511" alt="mdrl" src="https://github.com/user-attachments/assets/12be0ef2-a1f1-4c1c-9e24-e5e49dd42a1f" />
 - MATRIZ RACI: i : Informado C: Consultado R: Responsables A: Aprobadores
 <img width="1600" height="900" alt="raci" src="https://github.com/user-attachments/assets/3b3e739d-cc4b-402f-9c7b-55ff5e5909ae" />
+- DICCIONARIO DE DATOS:
+
+- PROTOTIPO FUNCIONAL:
+   - VALIDACION DE ENTRADA
+<img width="1080" height="720" alt="4" src="https://github.com/user-attachments/assets/b60d197b-8836-45fa-a1ca-c081c1d13ba3" />
+<img width="1080" height="720" alt="3" src="https://github.com/user-attachments/assets/7ca1328e-58d0-411f-ba1a-2eebac0f3877" />
+<img width="1080" height="720" alt="2" src="https://github.com/user-attachments/assets/46d2fb9b-95fe-482a-961c-fd35f969b7f3" />
+<img width="1080" height="720" alt="1" src="https://github.com/user-attachments/assets/ed23ab3b-8f60-4571-9119-070328188063" />
